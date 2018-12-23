@@ -12,3 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+#login-form input {    background-color: white;
+  border: 1px solid rgb(204, 204, 204);
+  padding: 15px;
+  float: left;
+  clear: right;
+  width: 80%;
+  margin: 15px;}

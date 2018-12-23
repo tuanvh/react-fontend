@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import './App.css'
 
 const Login = ({ history, loginUser = f => f }) => {
     let _email, _password;

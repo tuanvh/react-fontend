@@ -30,3 +30,31 @@
     transform: rotate(360deg);
   }
 }
+#login-form input {
+  background-color: white;
+  border: 1px solid rgb(204, 204, 204);
+  padding: 15px;
+  float: left;
+  clear: right;
+  width: 80%;
+  margin: 15px;}
+#login-form button {
+  height: 44px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 8px 15px;
+  border: none;
+  background-color: red;
+  margin: 15px;
+  float: left;
+  clear: both;
+  width: 85%;
+  color: white;
+  padding: 15px;
+}
+#login-form a, #main a
+{
+  width: 100%;
+  float: left;
+  clear: both;
+  text-align: center;
+}
+#login-form { width: 500px}
